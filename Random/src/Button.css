@@ -1,0 +1,20 @@
+button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #e4da19;
+    color: #ffffff;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 8px;
+    transition: background-color .5s;
+  }
+  
+  button:hover {
+    background-color: #01184d;
+  }
+  
+  button:active {
+    background-color: #2e06f2;
+  }
+  
